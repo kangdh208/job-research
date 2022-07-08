@@ -1,91 +1,62 @@
-# **채용공고 리서치**
+# 채용공고 리서치
 ## 직군 선택
-> 데이터 사이언스, 데이터 엔지니어
+> 데이터 사이언스, 백엔드 개발
 ## 채용공고
 
-- NHN
-  - 자격요건
-    - JavaScript 개발경험
-    - TypeScript 개발경험
-    - Vue.js 개발경험		
-
-- 한화테크윈
+- SK플래닛
   - 주요업무
-    - Cloud 서비스 Application 의 web client개발
-    - Cloud 서비스 Web Application 개발
-    - UI Component 및 Functional/object module 개발
-  - 자격요건
-    - HTML5, CSS3 등 W3C웹표준 규격에 대한 이해와 활용 능력
-    - ECMAScript, HTML5 API에 대한 이해와 활용 능력
-    - React 이용한 SPA개발 경험
-  - 우대사항
-    - functional javascript에 대한 이해
-    - Mobile Web 및 React Native 앱 개발 경험
-    - Cross-Browsing 이슈 해결능력
-    - Graph, Map render 개발 경험
-    - AWS 내에서 Web 개발 경험
-
-- 인포보스
-  - 지원자격
-    - Front-end : PHP, javascript, CDD, HTML
-    - Back-end : C, Perl, Python 언어 사용자
-    - 관계형 데이터베이스(MySQL) 운영 경험이 있으신 분 ㆍ원할한 업무 커뮤니케이션 능력이 있으신 분
-  - 우대사항
-    - Linux/Unix 기반 시스템 사용 경험이 있으신 분
-    - 엑셀 고급능력 혹은 이에 상응하는 데이터 프로세싱 기술을 보유하신 분
-    - 전공 : 컴퓨터/시스템공학, 공학계열 우대ㆍ영어능통자, 인근거주자, 해당직무 근무경험
-- 인터파크
+    - 광고플랫폼 Backend 시스템 개발 및 운영
+  - 자격요건 및 우대사항
+    - Java, Python, Go 등의 언얼르 기반한 API 서버 개발/운영경험
+    - <우대> 실시간/대용량 트래픽 처리 및 제어 개발 경험 
+    - <우대> AWS 기반 쿠버네티스 환경에서의 개발 및 DevOps 경험 
+  - 절차상 특이사항
+    - 온라인 코딩테스트
+- 카카오 엔터프라이즈
   - 주요업무
-    - 쇼핑/투어/티켓/도서 PC 및 Mobile 서비스에 대한 Front-end개발
-    - 통합/쇼핑 모바일 웹, 앱(Hybrid app view) 개발 및 운영
-    - 쇼핑 PC 차세대 플랫폼 (상품, 전시 등) 개발 및 운영
-    - 쇼핑 컨텐츠 관리자, API 개발 및 운영
-    - 투어/티켓 서비스의 전시, 검색, 상품, 결제 화면 등 개발
-    - 글로벌쇼핑 모바일 웹 개발 및 운영
+    - End-To-End를 책임지는 신규 데이터 플랫폼 개발
+    - Hadoop, Spark, S3, Druid, Kafka, Hive, Presto 등의 빅데이터 엔지니어링 기술을 클라우드 환경에 연동하는 서비스 개발 
+    - Spring, Java, Kotlin, Python 등을 이용한 API 개발 및 Kubernetes, Docker 기반의 배포 
+    - 빅데이터 ETL, Data Lake 구성을 개발
   - 자격요건
-    - [쇼핑] 경력 2년 이상, [투어/티켓] 경력 7년~10년
-    - JavaScript 이해와 역량을 갖추신 분
-    - Java, Spring Boot, Spring Framework ,PHP를 경험하신 분
-    - React 및 Webpack, Next.js 등을 활용한 SSR을 경험하신 분
+    - CS 관련 기반 지식(자료구조, 알고리즘 등)
+    - 웹서비스 혹은 분산처리/빅데이터 프레임워크에 대한 개발 및 운용 경험
+    - 새로운 서비스 개발 및 문제 해결을 위한 적극적인 자세
+    - <우대> 빅데이터 아키텍처 설계 경험 혹은 3년이상의 빅데이터 프레임워크 개발/운용
+    - <우대> Java/Kotlin & Spring Framework (Spring boot)를 이용한 대용량 트래픽 실서비스 경험
+    - <우대> AI, 빅데이터, 분석 도메인에 대한 이해
+    - <우대> Kubernetes, Docker등의 환경 경험
+    - <우대> Elasticsearch, Solr 등 DB, 검색 기술에 대한 이해
+  - 절차상 특이사항
+    - 경력 2년 미만 합격자는 역량 검증을 위해 3개월간 계약직으로 근무할 수 있음 (테크 직군)
+- 그린카
+  - 주요업무
+    - 그린카 백엔드 서버개발
+    - 당사 도메인 DB 쿼리 분석 및 API 연동
+    - React 기반 프론트엔드와의 통합 및 연동 테스트
+  - 지원자격 및 우대사항
+    - Java Spring Boot 기반 Restful API 설계 및 개발 경험자
+    - mybatis 및 MS-SQL 쿼리/프로시저 개발 및 연동 경험자
+    - swagger, junit 기반 개발 및 테스트 경험자
+    - IntelliJ, Gitlab, Gitlab Pipeline 경험자
+    - 서버개발 및 운영(DevOps) 경험자
+- 토스증권 Test Automation Engineer
+  - 주요업무
+    - QA Manager와 함께 테스트 자동화 영역을 정의
+    - 관련 Tool과 Framework를 사용하여 테스트 자동화를 구축
+    - Frontend, Backend 영역 전반적으로 자동화가 가능한 부분을 주도적으로 발굴
+    - 테스트 커버리지를 높이기 위해 필요한 테스트 도구를 설계 및 개발
+    - 토스증권 MTS, WTS 서비스의 자동화 영역을 정의
+    - 테스트 자동화 시나리오를 설계투어/티켓 서비스의 전시, 검색, 상품, 결제 화면 등 개발
+    - 자동화 코드를 형상관리하고, 각각의 테스트/배포 환경에 맞추어 자동화 테스트를 운영
+  - 자격요건 및 우대사항
+    - 모바일/웹 서비스의 개발 및 배포 환경에 대해 깊이 있는 이해도가 있는 사람
+    - 애자일/스크럼 개발 환경에 적합한 테스트 자동화를 만들어갈 수 있는 사람
+    - 테스트 자동화 툴과 프레임워크를 사용해 테스트를 실제 수행한 뒤, 유지 보수해본 경험이 있는 사람
+    - <우대> 업무 협업 툴 (Jira, Confluence, GitHub, Notion, Slack)을 이용해본 경험자
+    - <우대> API Automation, UI 테스트 자동화, QA Ops 관련하여 깊이 있는 이해도가 있는 사람
+    - <우대> 오픈소스 툴을 활용하여 자동화 테스트를 해본 경험이 있는 사람
+    - <우대> Python, Appium, Selenium, Robo Framework, Jenkins, Zapier, Device Farm, Git 사용자
     - 웹 및 브라우저, 모바일에 대한 이해를 갖추신 분
-  - 우대사항
-    - 대용량 트래픽 경험이 있으신 분
-    - API 을 통한 개발 경험이 있거나 이해도가 있으신 분
-    - Cloud(AWS) 환경 개발 경험이 있으신 분
-    - Back-end에 대한 기본적 이해도가 있으신 분
-    - ES6, Typescript 경험이 있으신 분
-    - Oracle 또는 타 RDBMS 사용 경험이 있으신 분
 
 
-
-## Android 채용공고
-
-- 콘텐츠웨이브
-  - 주요업무
-    - Wavve Android 앱 개발
-  - 자격요건
-    - TypeScript 개발경험
-    - Vue.js 개발경험		
-  - 우대사항
-    -  MVP / MVVM 패턴 등의 이해
-    - Google Play Store 앱 운영 및 관리 경험
-    - Git / Github, Slack 등의 협업, 소통 및 코드 리뷰 경험자
-- 피치
-  - 주요업무
-    - Android Native앱 개발
-    - 앱 공통모듈화와 구조개선으로 개발 효율성 강화
-  - 자격요건
-    - JAVA/Kotlin 개발 경험
-    - Android 기본 Component를 이해하고 SDK UI 컴포넌트로 자유롭게 UI를 구성 가능한 역량
-    - 1개 이상의 상용 모바일 앱을 실제 개발해본 경험
-    - 원활한, 주도적이고 선제적인 커뮤니케이션 역량
-    - 다양한 개발 기술, 언어, 솔루션에 대한 이해도
-    - 시간 제약 하에서의 성공 경험
-  - 우대사항
-    - API 연동 및 데이터 처리 경험
-    - 이미지 처리에 대한 이해도
-    - App 성능 최적화 및 구조 개선에 대한 관심
-    - Functional Programming에 대한 이해도
-    - GitLab 기반 CI/CD 개발 환경 경험
-    - 커뮤니케이션 및 팀워크 역량 보유
-    - 밝고 즐거운 성격 (팀의 분위기가 밝고 즐거운 편으로, 그런 환경에 적응이 편한 자)
